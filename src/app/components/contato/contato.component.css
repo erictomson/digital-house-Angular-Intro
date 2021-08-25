@@ -1,0 +1,7 @@
+/* *** ESTILOS ESPECÍFICOS DO COMPONENTE */
+div {
+    background-color: aliceblue;
+    border: 1px solid #CCC;
+    padding: 20px;
+    margin-bottom: 20px;
+}
